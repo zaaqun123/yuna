@@ -1,0 +1,302 @@
+.Bell {
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	margin-top: 200px;
+}
+body {
+	display: flex;
+	margin: auto;
+	width: 100%;
+	height: 100%;
+	background-color: #FFF5DF;
+}
+.Bell div #bell {
+	height: 209px;
+	width: 209px;
+	
+}.Navigation_bar {
+    width: 96.5px;
+    height: 557.5px;
+    margin-top: 25%;
+    margin-left: -32px;
+}
+.navbar {
+	width: 100%;
+	height: 100%;
+	display: flex;
+}
+
+
+.atap {
+    width: 964px;
+    height: 105px;
+    margin-top: -28px;
+    display: flex;
+    margin-left: -825px;
+}
+.atap2 {
+    width: 964px;
+    height: 105px;
+    margin-left: -575px;
+    display: flex;
+    margin-top: -105px;
+}
+.cover {
+    display: flex;
+    margin-left: 501px;
+    width: 330px;
+    height: 458px;
+    margin-top: 80px;
+}
+.Menu {
+    display: flex;
+    margin-left: 505px;
+    width: 330px;
+    height: 458px;
+    margin-top: 80px;
+}
+.icon ul li {
+    text-decoration: none;
+    text-transform: none;
+    list-style-image: none;
+    list-style-type: none;
+    padding-top: 20px;
+    width: 47px;
+    height: 72px;
+}
+.icon ul {
+
+}
+.icon {
+    margin-top: 9px;
+}
+
+
+.icon ul #book {
+    margin-left: -4px;
+}
+ul #home img {
+    width: 44px;
+}
+ul #book img {
+    width: 44px;
+    margin-left: 12px;
+}
+ul #credit img {
+    width: 44px;
+    margin-left: 14px;
+}
+ul #contak img {
+    width: 44px;
+    margin-left: 10px;
+}
+.icon ul #home {
+    margin-left: 8px;
+}
+
+
+
+
+
+.icon ul #credit {
+    margin-left: -8px;
+	width: 47px;
+    height: 72px;
+}
+.icon ul #contak {
+    margin-left: 0px;
+	width: 47px;
+    height: 72px;
+}
+
+
+
+.icon ul {
+    margin-left: -105px;
+    margin-top: 56px;
+}
+.order ul li {
+    list-style-type: none;
+    width: 133px;
+    display: flex;
+    padding-top: 64px;
+    list-style-image: none;
+    text-transform: none;
+	font-family: "Kalnia", serif;
+  	font-optical-sizing: auto;
+  	font-weight: <weight>;
+ 	 font-style: normal;
+  	font-variation-settings:
+   	 "wdth" 100;
+}
+a {
+    text-decoration: none;
+    color: #4F4E4B;
+}
+
+.order {
+    display: flex;
+    margin-left: -330px;
+    margin-top: 123px;
+}
+ul a #kopi {
+    text-decoration: none;
+}
+
+#home2_atap {
+    margin-left: -660px;
+}
+#home2_atap2 {
+    margin-left: -538px;
+}
+.meja {
+    width: 1826px;
+    margin-top: 408px;
+    margin-left: -65px;
+}
+#navigation {
+    margin-left: -1792px;
+    margin-top: 22px;
+}
+#kopi_atap1 {
+    margin-left: -1674px;
+}
+#kopi_atap2 {
+    margin-left: -941px;
+}
+.kit #gelas {
+    width: 249px;
+    display: flex;
+    margin-top: 238px;
+    margin-left: -1681px;
+}
+
+
+
+.icon #ikon {
+    margin-left: -1800px;
+}
+.takar1 #taka {
+    width: 276px;
+    margin-top: 143px;
+    margin-left: -1375px;
+}
+.Teko1 #teko {
+    width: 158px;
+    margin-top: 247px;
+    margin-left: -999px;
+}
+.takar2 #taka2 {
+    width: 276px;
+    margin-top: 143px;
+    margin-left: -791px;
+}
+.mesin1 #mesin2 {
+    width: 221px;
+    margin-left: -266px;
+    margin-top: 173px;
+}
+.Cangkir1 #cang1 {
+    width: 183px;
+    margin-left: -415px;
+    margin-top: 286px;
+}
+.kopi {
+    background-color: #705A44;
+    background-image: -webkit-linear-gradient(143deg,rgba(214,172,130,1.00) 0%,rgba(112,90,68,1.00) 84.11%);
+    background-image: -moz-linear-gradient(143deg,rgba(214,172,130,1.00) 0%,rgba(112,90,68,1.00) 84.11%);
+    background-image: -o-linear-gradient(143deg,rgba(214,172,130,1.00) 0%,rgba(112,90,68,1.00) 84.11%);
+    background-image: linear-gradient(307deg,rgba(214,172,130,1.00) 0%,rgba(112,90,68,1.00) 84.11%);
+}
+.kopi #kohi  {
+    width: 601px;
+    margin-left: 323px;
+    margin-top: 24px;
+}
+.kopi div #kopiw2 {
+    margin-left: -661px;
+
+}
+.kopi div #kopiw1 {
+    margin-left: -898px;
+}
+.kit #mentega {
+    margin-left: -1678px;
+    margin-top: 268px;
+}
+.takar1 #ingredien {
+    width: 217px;
+    margin-left: -1478px;
+    margin-top: 126px;
+}
+.Teko1 #mixer {
+    width: 316px;
+    margin-left: -1235px;
+    margin-top: 124px;
+}
+.takar2 #step {
+    width: 199px;
+    margin-left: -847px;
+    margin-top: 126px;
+}
+.Cangkir1 #kiloan {
+    width: 170px;
+    margin-left: -721px;
+    margin-top: 225px;
+}
+.mesin1 a #open {
+    width: 469px;
+    margin-left: -489px;
+    margin-top: 142px;
+}
+.kopi #piring {
+    width: 564px;
+    height: 348px;
+    margin-left: 344px;
+    margin-top: 178px;
+}
+.kopi a #keki1 {
+    width: 387px;
+    margin-top: 181px;
+    margin-left: -395px;
+}
+.kopi div #kue2 {
+    margin-left: -452px;
+}
+.kopi div #kue1 {
+    margin-left: -693px;
+}
+.ABoutme {
+    width: 984px;
+    margin-left: 84px;
+}
+#abotme1 {
+    margin-left: -1044px;
+}
+#abotme2 {
+    margin-left: -803px;
+}
+.Book {
+    width: 1055px;
+    margin-top: 78px;
+}
+.keredit {
+    margin-left: 208px;
+    margin-top: 167px;
+    text-align: center;
+
+}
+.kontaq {
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 423px;
+}
+#kontak1 {
+    margin-left: -674px;
+}
+#kontak2 {
+    margin-left: -554px;
+}
